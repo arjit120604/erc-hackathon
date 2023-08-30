@@ -1,0 +1,3 @@
+The code takes the input of linear velocity, angular velocity and angle to be rotated for locomotion of the mine detector. When the mine is detected the robot stops until the mine is removed from ground. 
+I have attached the tinkercad link with this.
+	1.	Differential drive -  https://www.tinkercad.com/things/a57WkM5UhPx
