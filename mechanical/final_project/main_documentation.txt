@@ -1,0 +1,13 @@
+MineSweepers Mechanical Division Report:
+Section 1: Chasis
+For chasis we kept a very liberal approach to our design and ensured enough space for ease of installation of electronics, automation equipment and enough space for good movement space for the mechanical arm that is mounted as the crown of the robot. Although we couldn't independently verify weather our robot can stand on the harshest of terrains (due to technical limitaions of our PC systems and haste we've made into completing this project), I've ensured that the chasis is strong enough to handle drops from waist level, we would be using aluminium frame that is welded on each joint so that it can handle unexpected drops, the aluminium rods are L rods of 0.5 cm thickness, with dimensions standing as 50X50X30(cms).
+Section 2: Drivetrain
+We've kept a very modest approach towards the propulsion of the robot, there are eight wheels in total each 5 cms wide on the periphery, 20 cms diameter, and molded such that the mud that might stick on the wheels doesn't slow down or hamper functioning with taper such that the mud sticks on the outer surfaces rather than the inside. The 2 wheels in the center are powered with their periphery being 4 cms apart, they've plenty of room to splash dirt around if it does manage to stick through the complete rotation, the other wheels are attached 24 cms away from the center of the two wheels of each side in the extreme directions such that the line connecting their centers make an angle of 30 degrees with the horizontal. This should enusre enough obstacle climbing abilities for the robot, all the while also ensuring no possibility of toppling due to unequal mass distribution.
+Section 3: Mechanical Arm
+The mechanical arm is quite tricky as we do not have any expertise with strengths of servo motors also as we are entirely relying on servo motors to keep the whole thing stable, we haven't used gears in the design due to the high complexity it poses, although we've planned on the arm retracting once it has picked up the mine such that it picks up the mine and folds into iteslf such that the weight of the mine is directly above the frame which would help in countering any imbalances possible during motion due to raised center of gravity.
+
+Team Memebers:
+1)Shashank Prasad (2022A4PS0715G)
+2)Mayank Prasad (2022A1PS1447G)
+
+E.O.D.
