@@ -1,6 +1,6 @@
 # erc-hackathon
 
-# Electronics
+# Electronics[electronics]
 
 During the hackathon, my journey began with learning Arduino programming and using Tinkercad for simulations. My initial idea was quite basic, which meant that I needed some time to grasp the concepts. As a team, we dove into exploring metal detectors, understanding their working principles, and acknowledging their limitations through sources like YouTube and various other platforms.
 
