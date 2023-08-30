@@ -1,2 +1,0 @@
-2 -For the metal detector circuit , I tried to convert the DC current to AC with the help of H bridge circuit with mosfets . By using  mosfets as switches and controlling them with Arduino and by using Pulse width modulation(PWM)  , it can be converted into a near-sinosudial waveform with a frequency of 20KHz and can be used for metal detection. 
-I will share the tinkercad link of it- https://www.tinkercad.com/things/b4DCwzsw2WX
